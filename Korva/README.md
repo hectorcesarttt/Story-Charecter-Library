@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 
 ## Dragon States
 - Combat: [Image URL]
-- Flying: [Image URL]
+- Flying: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-DragonFlying.png.PNG
 - Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-DragonNeutral.png.PNG
 
