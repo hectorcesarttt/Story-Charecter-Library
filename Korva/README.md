@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 - Surprised: [Image URL]
 - Confused: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Confused.png.PNG
 - Worried: [Image URL]
-- Crying: [Image URL]
+- Crying: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Crying.png.PNG
 
 ## Other States
 - Combat: [Image URL]
