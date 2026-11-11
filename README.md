@@ -21,17 +21,10 @@ Instructions for AI
 
 Character Directory
 
-Main Characters
+Characters
 
 * Korva
-* Nazuma
-* Rowan
-* Sia
-* Anastasia
 
-Additional Characters
-
-Add new character reference folders here as they are created.
 
 Reference Categories
 
