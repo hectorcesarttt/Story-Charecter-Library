@@ -4,29 +4,25 @@ This directory contains Rowan's official visual references.
 
 ## Appearance
 
-[Insert base appearance image URL]
+https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Appearance.png.PNG
 
 ## Emotions
 
-- Neutral:
-- Happy:
-- Smiling:
-- Angry:
-- Sad:
-- Embarrassed:
-- Shy:
-- Surprised:
-- Confused:
-- Worried:
-- Crying:
+- Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Neutral.png.PNG
+- Happy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Happy.png.PNG
+- Smiling: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Smile.png.PNG
+- Angry: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Angry.png.PNG
+- Sad: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Sad.png.PNG
+- Embarrassed: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Embarrassed.png.PNG
+- Shy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Shy.png.PNG
+- Surprised: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Surprised.png.PNG
+- Confused: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Confused.png.PNG
+- Worried: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Worried.png.PNG
+- Crying: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Crying.png.PNG
 
 ## Other States
 
-- Casual:
-- Formal:
-- Combat:
-- Injured:
-- Resting:
+- Combat https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Rowan/Rowan-Combat.png.PNG
 
 ## Visual Consistency Rules
 
