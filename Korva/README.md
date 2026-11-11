@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 - Angry: [Image URL]
 - Sad: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Sad.png.PNG
 - Embarrassed: [Image URL]
-- Shy: [Image URL]
+- Shy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Shy.png%20.PNG
 - Surprised: [Image URL]
 - Confused: [Image URL]
 - Worried: [Image URL]
