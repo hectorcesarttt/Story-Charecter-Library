@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 - Happy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/korva-happy.png.PNG
 - Smiling: [Image URL]
 - Angry: [Image URL]
-- Sad: [Image URL]
+- Sad: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Sad.png.PNG
 - Embarrassed: [Image URL]
 - Shy: [Image URL]
 - Surprised: [Image URL]
