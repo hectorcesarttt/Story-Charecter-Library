@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 
 ## Emotions
 - Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Korva/Korva-Neutral.png.PNG
-- Happy: [Image URL]
+- Happy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/korva-happy.png.PNG
 - Smiling: [Image URL]
 - Angry: [Image URL]
 - Sad: [Image URL]
