@@ -1,10 +1,10 @@
 # Korva — Character Reference Library
 
 ## Appearance
-
+https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Korva/Korva-Neutral.png.PNG
 
 ## Emotions
-- Neutral: [Image URL]
+- Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Korva/Korva-Neutral.png.PNG
 - Happy: [Image URL]
 - Smiling: [Image URL]
 - Angry: [Image URL]
