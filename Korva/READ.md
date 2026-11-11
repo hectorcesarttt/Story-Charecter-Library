@@ -1,1 +1,0 @@
-Korva Character references 
