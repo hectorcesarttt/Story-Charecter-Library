@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 - Worried: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-worried.png.PNG
 - Crying: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Crying.png.PNG
 
-## Other States
+## Dragon States
 - Combat: [Image URL]
-- Injured: [Image URL]
-- Resting: [Image URL]
+- Flying: [Image URL]
+- Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-DragonNeutral.png.PNG
 
