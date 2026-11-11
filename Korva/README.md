@@ -10,8 +10,8 @@ Use these images as visual references when generating Korva.
 - Do not mix her humanoid and dragon appearances.
 - These images are visual references, not separate characters.
 
-## Appearance
-https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Korva/Korva-Neutral.png.PNG
+## Appearance 
+https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Appearance.png.PNG
 
 ## Emotions
 - Neutral: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Neutral.png.PNG
