@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/main/Ko
 - Angry: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Angry.png.PNG
 - Sad: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Sad.png.PNG
 - Embarrassed: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Embarrassed.png.PNG
-- Shy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Shy.png%20.PNG
+- Shy: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Shy.png.PNG
 - Surprised: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Surprised.png.PNG
 - Confused: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-Confused.png.PNG
 - Worried: https://raw.githubusercontent.com/hectorcesarttt/Story-Charecter-Library/refs/heads/main/Korva/Korva-worried.png.PNG
