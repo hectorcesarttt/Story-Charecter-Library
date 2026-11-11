@@ -23,7 +23,9 @@ Character Directory
 
 Characters
 
-* Korva
+### Main Characters
+- [Korva](./Korva/README.md)
+- [Rowan](./Rowan/README.md)
 
 
 Reference Categories
